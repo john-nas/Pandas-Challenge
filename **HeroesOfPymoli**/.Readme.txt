@@ -1,1 +1,10 @@
+Pandas-HeroesOfPymoli
+Heroes Of Pymoli Game Data Analysis
 
+
+Conclusions to Draw from Heroes of Pymoli Analysis:
+------------------------------------------------------------------------------------------------------------------------
+(1) Heroes of Pymoli has 780 active players, The largest gender demographic is male at 83.59%.
+(2) The 2nd largest demographic is female players at 14.49%.
+(3) Largest age demographic bracket is (20-24) at 63.37% 
+(4) 2nd and 3rd largest age demographic brackets falling between (15-19) at 23.61% and (25-29) at 17.53%.
